@@ -1,2 +1,3 @@
 #!/bin/bash
-python OLX1.py
+python3 OLX1.py
+
